@@ -3,11 +3,11 @@
 /*
 
 Plugin Name: Popup creator
-Plugin URI: https://learnwith.hasinhayder.com
-Description: Ay plugin dia amra hoylo re zakaria popup make korta pare
+Plugin URI: http://speed1.wptechit.com/poupplugin
+Description: This plugin is a popup WordPress Plugin
 Version: 1.0.0
 Author: LWHH
-Author URI: https://learnwith.hasinhayder.com
+Author URI: http://speed1.wptechit.com/
 License: GPLv2 or later
 Text Domain: popupcrator
 Domain Path: /languages/
